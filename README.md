@@ -9,3 +9,7 @@ This is Kimia
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me: kdarvishnoori@gmail.com
 -->
+This is Kimia
+- 🔭 I’m currently working on PHP Projects
+- 🌱 I’m currently learning Deep Learning
+- 📫 How to reach me: kdarvishnoori@gmail.com
